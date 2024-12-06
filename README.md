@@ -16,7 +16,8 @@
 * `package.json` - Настройки проекта
 
 ## Установка и запуск
-
+1. git clone https://github.com/KOPHET84/TestTorg.git
+2. npm install
 ### Запуск сервера
 
 1. Запустите сервер командой:
